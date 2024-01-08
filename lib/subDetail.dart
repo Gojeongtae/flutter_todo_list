@@ -11,7 +11,7 @@ class _SubDetail extends State<SubDetail>{
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Sub Detail Example'),
+        title: Text('Sub Detail'),
       ),
       body: Container(
         child: Center(
